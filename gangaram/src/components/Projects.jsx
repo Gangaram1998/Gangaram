@@ -177,11 +177,11 @@ const Projects = () => {
         </Box>
         <Box display={"flex"} justifyContent={{base:"space-between",sm:"space-around" ,md:"space-between"}} w={{base:"80%",sm:"90%", md:"60%"}} m="auto" mt="5">
         <Button onClick={()=>{
-        window.open("https://github.com/RationalPrabal/Movie-App", '_blank')
+        window.open("https://github.com/Gangaram1998/movie-app", '_blank')
     
        }} bg="#86efac">Github</Button>
         <Button onClick={()=>{
-        window.open("https://monumental-gaufre-0ccaf4.netlify.app/","_blank")
+        window.open("https://splendid-kheer-2dc959.netlify.app/","_blank")
        }} bg="#22d3ee">Live</Button>
         </Box>
     </Box>
